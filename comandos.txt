@@ -1,0 +1,10 @@
+//Instala o react
+npm i -g create-react-app
+
+
+//Cria projeto em React
+create-react-app *Nome do Projeto*
+
+//Executa
+npm start
+
